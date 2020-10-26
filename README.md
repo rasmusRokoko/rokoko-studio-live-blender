@@ -8,16 +8,12 @@ It supports the following types of data:
 * Camera data
 * Props data
 
-Blender versions supported: ??
+Blender versions supported: 2.80 or higher
 
 Rokoko Studio version supported: 1.18.0b
 
 Blender Demo project including a character already set up for live streaming from Rokoko Studio:
 (demo project link)
-
-
-### Requirements
- - Blender **2.80** or higher
 
 ### Installation
  - Download the plugin: **[Rokoko Studio Live for Blender](https://github.com/RokokoElectronics/rokoko-studio-blender-plugin/archive/master.zip)**
